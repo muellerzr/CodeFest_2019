@@ -20,3 +20,7 @@ https://arxiv.org/abs/1708.02182
 ## Libraries Used:
 fastai.text
 Pandas
+
+## Reliability Score:
+![equation](http://www.sciweavers.org/upload/Tex2Img_1557443007/render.png)
+
